@@ -82,7 +82,7 @@ Esto lo realizaremos guardando los datos en MySQL, y creando  JWT
     
     Tambien se ha añadido Swagger quese puede ver en la siguiente ruta http://localhost:3030/swagger-ui.html# una vez puesto en marchael programa y si se desea tambien     se pueden manejar desde alli los 3 endpoints
     
-      [Captura](https://user-images.githubusercontent.com/77856098/169036165-601cf8f5-1878-4a96-995f-7b628f861fcd.png)
+    [Captura](https://user-images.githubusercontent.com/77856098/169036165-601cf8f5-1878-4a96-995f-7b628f861fcd.png)
       
   ## Contact info
   
