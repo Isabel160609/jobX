@@ -77,10 +77,13 @@ Esto lo realizaremos guardando los datos en MySQL, y creando  JWT
      Se han añadido archivos json con las llamadas al api y ejemplos implementados para facilitar las llamadas
      
      
-   ![Captura](https://user-images.githubusercontent.com/77856098/156894992-fb9733ae-49a0-48d8-923a-fc2245d793a4.PNG)
+   ![Captura](![2022-05-18](https://user-images.githubusercontent.com/77856098/169035615-71b52694-395e-47a1-a12d-ddd61bbf1320.png))
 
     
-     
+    Tambien se ha añadido Swagger quese puede ver en la siguiente ruta http://localhost:3030/swagger-ui.html# una vez puesto en marchael programa y si se desea tambien     se pueden manejar desde alli los 3 endpoints
+    
+      ![Captura](![2022-05-18](https://user-images.githubusercontent.com/77856098/169036165-601cf8f5-1878-4a96-995f-7b628f861fcd.png))
+      
   ## Contact info
   
   [Linkedin Isabel Domènech](https://www.linkedin.com/in/isabel-domenech-de-mena-157103124/)
